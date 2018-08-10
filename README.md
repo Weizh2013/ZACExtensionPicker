@@ -90,7 +90,7 @@ alpha:((float)((argbValue & 0xFF000000) >> 24))/255.0]
 
 @end
 ```
-####4、属性及方法
+#### 4、属性及方法
 ```ruby
 /**
  标题栏颜色
@@ -148,7 +148,7 @@ alpha:((float)((argbValue & 0xFF000000) >> 24))/255.0]
 
 ### ZACExtensionSimplePickerView 说明
 针对比较简单使用的ZACExtensionPickerView,我做了一个封装，先说明下其头文件，再给个示例代码
-####1、 属性和方法
+#### 1、 属性和方法
 ```ruby
 /**
  常规图标
@@ -215,7 +215,7 @@ alpha:((float)((argbValue & 0xFF000000) >> 24))/255.0]
  */
 - (void)removeAllTitles;
 ```
-####2、使用方法
+#### 2、使用方法
 ```ruby
 ZACExtensionSimplePickerView *picker = [ZACExtensionSimplePickerView extensionViewWithSuperView:self.view topConstrant:64.0f completeHandler:^(NSIndexPath *indexPath) {
         // 每次选中后，会调用该block
@@ -229,8 +229,11 @@ ZACExtensionSimplePickerView *picker = [ZACExtensionSimplePickerView extensionVi
 [picker addTitle:@"排序" forContents:@[@"默认排序",@"按薪资由高到低",@"距离我远近"]];
 ...此处可以继续加，建议最多加四个，多了可能会影响视图效果
 ```
-####3、效果图如下
+#### 3、效果图如下
 ![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/extension.PNG)
+![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/selected_extension.PNG)
+![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/selected.PNG)
+![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/start.PNG)
 
 
 #### github下载地址：[https://github.com/Weizh2013/ZACExtensionPicker](https://github.com/Weizh2013/ZACExtensionPicker)
