@@ -2,7 +2,7 @@
 可收放选择器
 
 
-[GitHub: https://github.com/Zws-China/DatePicker](https://github.com/Zws-China/DatePicker)
+[GitHub: https://github.com/Weizh2013/ZACExtensionPicker](https://github.com/Weizh2013/ZACExtensionPicker)
 
 
 ## 可设置属性
@@ -230,9 +230,9 @@ ZACExtensionSimplePickerView *picker = [ZACExtensionSimplePickerView extensionVi
 ...此处可以继续加，建议最多加四个，多了可能会影响视图效果
 ```
 ####3、效果图如下
-![这里写图片描述](http://img.blog.csdn.net/20170406171425510?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjY1OTgwNzc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/extension.PNG)
 
 
-#### github下载地址：[https://github.com/Zws-China/DatePicker](https://github.com/Zws-China/DatePicker)
+#### github下载地址：[https://github.com/Weizh2013/ZACExtensionPicker](https://github.com/Weizh2013/ZACExtensionPicker)
 
 如果觉得对你还有些用，顺手点一下star吧 (｡♥‿♥｡)   你的支持是我继续的动力。<br>
