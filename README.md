@@ -230,10 +230,10 @@ ZACExtensionSimplePickerView *picker = [ZACExtensionSimplePickerView extensionVi
 ...此处可以继续加，建议最多加四个，多了可能会影响视图效果
 ```
 #### 3、效果图如下
-![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/extension.PNG)
-![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/selected_extension.PNG)
-![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/selected.PNG)
-![这里写图片描述](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/start.PNG)
+![起始图片](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/start.PNG)
+![展开效果](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/extension.PNG)
+![选中效果](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/selected.PNG)
+![选中展开效果](https://github.com/Weizh2013/ZACExtensionPicker/blob/master/pages/selected_extension.PNG)
 
 
 #### github下载地址：[https://github.com/Weizh2013/ZACExtensionPicker](https://github.com/Weizh2013/ZACExtensionPicker)
